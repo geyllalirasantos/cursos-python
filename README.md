@@ -1,3 +1,3 @@
 # cursos-python
 
-# Teste de commit
+Repoaitório dedicado aos meus cursos na linguagem python
